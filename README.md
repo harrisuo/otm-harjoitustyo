@@ -1,19 +1,11 @@
-TYON OTSIKKO!
+#OTM-harjoitustyö
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+##Tehtävät
+
+**Viikko1
 
 
-*This text will be italic*
-_This will also be italic_
+[gitlog.txt](https://github.com/harrisuo/otm-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-jeejjee
+[kometorivi.txt](https://github.com/harrisuo/otm-harjoitustyo/blob/master/laskarit/viikko1/kometorivi.txt)
