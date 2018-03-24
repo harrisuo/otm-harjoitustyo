@@ -1,0 +1,54 @@
+
+Folder PATH listing for volume OSDisk
+Volume serial number is B8DF-15E3
+C:.
++---otm
+¦   +---otm-harjoitustyo
+¦   ¦   +---laskarit
+¦   ¦       +---viikko1
+¦   +---viikko1
++---tikape
+    +---ryhmis
+    ¦   +---tikape-runko
+    ¦       +---src
+    ¦           +---main
+    ¦               +---java
+    ¦               ¦   +---tikape
+    ¦               ¦       +---runko
+    ¦               ¦           +---database
+    ¦               ¦           +---domain
+    ¦               +---resources
+    ¦                   +---templates
+    +---sqlite
+    +---SqliteJava
+    ¦   +---src
+    ¦       +---main
+    ¦           +---java
+    ¦               +---app
+    ¦                   +---db
+    ¦                   +---pojo
+    +---tikape-runko
+        +---src
+        ¦   +---main
+        ¦   ¦   +---java
+        ¦   ¦   ¦   +---tikape
+        ¦   ¦   ¦       +---runko
+        ¦   ¦   ¦           +---database
+        ¦   ¦   ¦           +---domain
+        ¦   ¦   +---resources
+        ¦   ¦       +---templates
+        ¦   +---test
+        ¦       +---java
+        +---target
+            +---classes
+            ¦   +---dao
+            ¦   +---database
+            ¦   +---domain
+            ¦   +---templates
+            ¦   +---tikape
+            ¦       +---runko
+            ¦           +---database
+            ¦           +---domain
+            +---generated-sources
+            ¦   +---annotations
+            +---test-classes
